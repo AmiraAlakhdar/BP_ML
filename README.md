@@ -1,4 +1,4 @@
-This code was used to analyse the blood pressure data for the paper titled:
+This code was used to analyse the blood pressure data for the project titled:
 # Project: Predicting Post-TEVAR Outcomes Using BP Metrics and Aortic Geometry
 
 ## Summary
